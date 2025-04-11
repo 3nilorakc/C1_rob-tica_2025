@@ -85,5 +85,3 @@ ATENÇÃO: O modelo deve ser treinado separadamente e exportado nos formatos mod
 OBRIGADO por escolher o IDENTIFICADOR DE GÊNERO LITERÁRIO v1.0!!!
 
 © 2025 - TODOS OS DIREITOS RESERVADOS
-```
-
