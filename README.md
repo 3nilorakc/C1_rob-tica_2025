@@ -87,6 +87,3 @@ OBRIGADO por escolher o IDENTIFICADOR DE GÊNERO LITERÁRIO v1.0!!!
 © 2025 - TODOS OS DIREITOS RESERVADOS
 ```
 
-Este README foi criado em estilo "throwback", remetendo à documentação técnica dos anos 80 e 90, com formatação exagerada, uso de maiúsculas para ênfase e linguagem entusiasmada típica dos manuais de software da época. O documento mantém todas as informações importantes sobre o aplicativo de identificação de gênero literário que você compartilhou.
-```
-
