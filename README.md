@@ -1,7 +1,9 @@
 # 📚 IDENTIFICADOR DE GÊNERO LITERÁRIO v1.0 📚
 
 Desenvolvido por: Karoline Lemos Costa
+
 Data: Abril 2025
+
 Versão: 1.0
 
 ## DESCRIÇÃO DO SISTEMA
