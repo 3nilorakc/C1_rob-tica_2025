@@ -1,87 +1,193 @@
+<div align="center">
+
+```
+ ██████╗ ███████╗███╗   ██╗███████╗██████╗  ██████╗     ██╗     ██╗████████╗███████╗██████╗  █████╗ ██████╗ ██╗ ██████╗ 
+██╔════╝ ██╔════╝████╗  ██║██╔════╝██╔══██╗██╔═══██╗    ██║     ██║╚══██╔══╝██╔════╝██╔══██╗██╔══██╗██╔══██╗██║██╔═══██╗
+██║  ███╗█████╗  ██╔██╗ ██║█████╗  ██████╔╝██║   ██║    ██║     ██║   ██║   █████╗  ██████╔╝███████║██████╔╝██║██║   ██║
+██║   ██║██╔══╝  ██║╚██╗██║██╔══╝  ██╔══██╗██║   ██║    ██║     ██║   ██║   ██╔══╝  ██╔══██╗██╔══██║██╔══██╗██║██║   ██║
+╚██████╔╝███████╗██║ ╚████║███████╗██║  ██║╚██████╔╝    ███████╗██║   ██║   ███████╗██║  ██║██║  ██║██║  ██║██║╚██████╔╝
+ ╚═════╝ ╚══════╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝ ╚═════╝     ╚══════╝╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝ ╚═════╝ 
+```
+
 # 📚 IDENTIFICADOR DE GÊNERO LITERÁRIO v1.0 📚
 
-Desenvolvido por: Karoline Lemos Costa
+*A REVOLUÇÃO DA INTELIGÊNCIA ARTIFICIAL PARA CLASSIFICAÇÃO DE LIVROS!*
 
-Data: Abril 2025
+</div>
 
-Versão: 1.0
+---
 
-## DESCRIÇÃO DO SISTEMA
-======================
+<div align="center">
 
-Este programa REVOLUCIONÁRIO utiliza a mais avançada tecnologia de INTELIGÊNCIA ARTIFICIAL para identificar o gênero literário de livros através de suas capas!!! Sim, você leu certo! Basta carregar a imagem da capa e o sistema fará o resto!
+### 🌟 SISTEMA ULTRA-AVANÇADO DE RECONHECIMENTO DE GÊNEROS LITERÁRIOS 🌟
 
-## RECURSOS INCRÍVEIS!!!
-=====================
+</div>
 
-* Análise de imagens em TEMPO REAL
-* Interface amigável e SUPER intuitiva
-* Resultados com as 3 MELHORES previsões
-* Tecnologia TensorFlow.js de ÚLTIMA GERAÇÃO
+---
 
-## REQUISITOS DO SISTEMA
-=====================
-
-* Navegador web MODERNO (Chrome, Firefox, Edge, etc.)
-* Conexão com a Internet para carregar as bibliotecas
-* Arquivos model.json e metadata.json (NÃO INCLUÍDOS - devem ser gerados separadamente)
-
-## COMO INSTALAR
-=============
-
-1. COPIE todos os arquivos para um diretório em seu servidor web:
-   - index.html
-   - style.css
-   - script.js
-   - model.json (deve ser gerado separadamente)
-   - metadata.json (deve ser gerado separadamente)
-
-2. ACESSE o aplicativo através do seu navegador favorito!
-
-## COMO USAR
-=========
-
-1. CLIQUE no botão para selecionar uma imagem de capa de livro
-2. VISUALIZE a prévia da imagem selecionada
-3. PRESSIONE o botão "Prever Gênero"
-4. MARAVILHE-SE com os resultados!!!
-
-## DETALHES TÉCNICOS
-=================
-
-Este sistema utiliza um modelo de rede neural convolucional (CNN) pré-treinado para classificar imagens de capas de livros em diferentes gêneros literários. O modelo é carregado via TensorFlow.js e executa inferências diretamente no navegador do usuário!
+## 🔍 VISÃO GERAL DO SISTEMA 🔍
 
 ```
-ATENÇÃO: O modelo deve ser treinado separadamente e exportado nos formatos model.json e metadata.json.
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║  Este programa REVOLUCIONÁRIO utiliza INTELIGÊNCIA ARTIFICIAL de ponta para  ║
+║  analisar capas de livros e identificar seu gênero literário com precisão    ║
+║  INCRÍVEL! Basta carregar a imagem e deixar a MAGIA acontecer!!!            ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
-## ARQUIVOS DO SISTEMA
-==================
+---
 
-* index.html - Interface principal do programa
-* style.css - Estilos visuais INCRÍVEIS
-* script.js - Código JavaScript que faz a MÁGICA acontecer
-* model.json - Modelo de IA pré-treinado (não incluído)
-* metadata.json - Metadados com os rótulos dos gêneros (não incluído)
+## ✨ RECURSOS FANTÁSTICOS ✨
 
-## COMO FUNCIONA
-============
+<div align="center">
 
-1. O sistema carrega o modelo TensorFlow.js e os metadados
-2. A imagem da capa é redimensionada para 224x224 pixels
-3. A imagem é convertida em um tensor e processada pelo modelo
-4. As previsões são ordenadas e as 3 melhores são exibidas
+| 🚀 RECURSO | 🌈 DESCRIÇÃO |
+|:----------:|:-------------|
+| 🖼️ **ANÁLISE DE IMAGEM** | Processamento em TEMPO REAL das capas de livros! |
+| 🧠 **IA AVANÇADA** | Utiliza TensorFlow.js para análise PROFUNDA! |
+| 📊 **TOP 3 PREVISÕES** | Exibe os 3 gêneros mais prováveis com PERCENTUAIS! |
+| 📱 **DESIGN RESPONSIVO** | Interface INCRÍVEL em qualquer dispositivo! |
+| ⚡ **VELOCIDADE** | Resultados INSTANTÂNEOS diretamente no navegador! |
 
-## PROBLEMAS CONHECIDOS
-===================
+</div>
 
-* O modelo precisa ser carregado antes de fazer previsões
-* Algumas capas muito abstratas podem gerar resultados imprecisos
-* O sistema requer conexão com a internet para carregar o TensorFlow.js
+---
 
-## AGRADECIMENTOS
-=============
+## 🛠️ REQUISITOS DO SISTEMA 🛠️
 
-OBRIGADO por escolher o IDENTIFICADOR DE GÊNERO LITERÁRIO v1.0!!!
+```
+┌─────────────────────────────────────────────────────────┐
+│ ✓ Navegador web MODERNO                                 │
+│ ✓ Conexão com a INTERNET                                │
+│ ✓ Arquivos model.json e metadata.json                   │
+│ ✓ Dispositivo com suporte a JavaScript                  │
+└─────────────────────────────────────────────────────────┘
+```
 
-© 2025 - TODOS OS DIREITOS RESERVADOS
+---
+
+## 📥 INSTALAÇÃO SUPER RÁPIDA 📥
+
+<div align="center">
+
+```
+     ┌─────────┐     ┌──────────┐     ┌─────────┐     ┌─────────┐
+     │  COPIE  │────▶│ COLOQUE  │────▶│ ACESSE  │────▶│  PRONTO │
+     │ ARQUIVOS│     │NO SERVIDOR│     │  A URL  │     │PARA USAR│
+     └─────────┘     └──────────┘     └─────────┘     └─────────┘
+```
+
+</div>
+
+### 📋 ARQUIVOS NECESSÁRIOS:
+
+> 📄 **index.html** - Interface principal INCRÍVEL!
+> 
+> 📄 **style.css** - Estilos DESLUMBRANTES!
+> 
+> 📄 **script.js** - Código que faz a MAGIA acontecer!
+> 
+> 📄 **model.json** - Modelo de IA pré-treinado (não incluído)
+> 
+> 📄 **metadata.json** - Metadados com rótulos (não incluído)
+
+---
+
+## 🎮 COMO USAR 🎮
+
+<div align="center">
+
+### 🔄 PROCESSO SIMPLES EM 3 PASSOS! 🔄
+
+</div>
+
+```
+╔═══════════════════╗     ╔═══════════════════╗     ╔═══════════════════╗
+║                   ║     ║                   ║     ║                   ║
+║  1. SELECIONE A   ║────▶║  2. CLIQUE EM     ║────▶║  3. OBSERVE OS    ║
+║     IMAGEM        ║     ║  "PREVER GÊNERO"  ║     ║    RESULTADOS!    ║
+║                   ║     ║                   ║     ║                   ║
+╚═══════════════════╝     ╚═══════════════════╝     ╚═══════════════════╝
+```
+
+---
+
+## 🧪 DETALHES TÉCNICOS IMPRESSIONANTES 🧪
+
+<div align="center">
+
+### 🔬 TECNOLOGIAS DE ÚLTIMA GERAÇÃO! 🔬
+
+</div>
+
+```
+┌───────────────────────────────────────────────────────────────────┐
+│                                                                   │
+│  ⭐ HTML5 + CSS3 para interface MODERNA e RESPONSIVA              │
+│  ⭐ JavaScript para interatividade DINÂMICA                       │
+│  ⭐ TensorFlow.js para processamento de IA NO NAVEGADOR           │
+│  ⭐ Modelo CNN (Rede Neural Convolucional) pré-treinado           │
+│  ⭐ Redimensionamento de imagem para 224x224 pixels               │
+│                                                                   │
+└───────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 🔍 COMO FUNCIONA 🔍
+
+<div align="center">
+
+```
+     ┌─────────┐     ┌──────────┐     ┌─────────┐     ┌─────────┐     ┌─────────┐
+     │ CARREGAR │────▶│REDIMENSIO│────▶│CONVERTER│────▶│PROCESSAR│────▶│ EXIBIR  │
+     │  MODELO  │     │NAR IMAGEM│     │EM TENSOR│     │ COM IA  │     │RESULTADO│
+     └─────────┘     └──────────┘     └─────────┘     └─────────┘     └─────────┘
+```
+
+</div>
+
+---
+
+## ⚠️ SOLUÇÃO DE PROBLEMAS ⚠️
+
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║  ⚠️ Se o modelo não carregar, verifique os arquivos model.json e metadata.json ║
+║  ⚠️ Para melhores resultados, use imagens nítidas e bem enquadradas           ║
+║  ⚠️ Certifique-se de que o JavaScript está habilitado no navegador            ║
+║  ⚠️ Algumas capas muito abstratas podem gerar resultados imprecisos           ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
+---
+
+<div align="center">
+
+## 🎉 AGRADECIMENTOS 🎉
+
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║     OBRIGADO por escolher o IDENTIFICADOR DE GÊNERO LITERÁRIO v1.0!!!       ║
+║     Esperamos que você se MARAVILHE com o poder da INTELIGÊNCIA ARTIFICIAL! ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
+<br>
+
+```
+ ██████╗ ██████╗ ██████╗ ██╗   ██╗██████╗ ██╗ ██████╗ ██╗  ██╗████████╗    ██████╗  ██████╗ ██████╗ ███████╗
+██╔════╝██╔═══██╗██╔══██╗╚██╗ ██╔╝██╔══██╗██║██╔════╝ ██║  ██║╚══██╔══╝    ╚════██╗██╔═████╗╚════██╗██╔════╝
+██║     ██║   ██║██████╔╝ ╚████╔╝ ██████╔╝██║██║  ███╗███████║   ██║        █████╔╝██║██╔██║ █████╔╝███████╗
+██║     ██║   ██║██╔═══╝   ╚██╔╝  ██╔══██╗██║██║   ██║██╔══██║   ██║       ██╔═══╝ ████╔╝██║██╔═══╝ ╚════██║
+╚██████╗╚██████╔╝██║        ██║   ██║  ██║██║╚██████╔╝██║  ██║   ██║       ███████╗╚██████╔╝███████╗███████║
+ ╚═════╝ ╚═════╝ ╚═╝        ╚═╝   ╚═╝  ╚═╝╚═╝ ╚═════╝ ╚═╝  ╚═╝   ╚═╝       ╚══════╝ ╚═════╝ ╚══════╝╚══════╝
+```
+
+</div>
